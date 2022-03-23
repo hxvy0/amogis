@@ -1,0 +1,146 @@
+Manifest-Version: 1.0
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA1-Digest: pNfgVRb2PWq2cyeymdT7KFLLhAs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: K53tJZtG85N6tB7OqIk9/+cUEmA=
+
+Name: assets/bin/Data/data.unity3d
+SHA1-Digest: R9ujNHkubWfa3x48dFueXdrTMrg=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/web.config
+SHA1-Digest: fXdtcwy9JTVkcT82Vz3YNmeCeIw=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/machine.config
+SHA1-Digest: HhGPS1wcansYWOP8yxsdEJVWGXY=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA1-Digest: 3Svi28zTRzZxkwGu6SQp1CWOpaA=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: s+S1CKqzzyAcBoknE7Q92wxDt64=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+SHA1-Digest: GH3/UW+USOY+pQeBkLM0eSLEs+s=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA1-Digest: EaHA4qsvjAb+RQdTXtR+DdJ5pg0=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: s+S1CKqzzyAcBoknE7Q92wxDt64=
+
+Name: assets/bin/Data/sharedassets3.resource
+SHA1-Digest: QRxoEmFEi1CoOqqyMyN3Y31hrMU=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA1-Digest: McD1CJlI90B0yGmUcr4rN7e4IH8=
+
+Name: assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA1-Digest: LVRU4WHeiltlkQ8nvXDZ0K2PpHY=
+
+Name: assets/bin/Data/boot.config
+SHA1-Digest: 6meE/aygkSfUughQFKAY24yx5XY=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA1-Digest: HPt/S/ZWdn29hSVdNz5WyfBxRf8=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA1-Digest: 88UHpqe4DwRjrDsVQTBxLaG0ePw=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA1-Digest: kbD6osivrMxkhzPVdnAkUX0P99k=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/machine.config
+SHA1-Digest: kkW+/NEWRY6WGWlPGnhcUPphtY4=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/web.config
+SHA1-Digest: 6j4q1tcdSDxUsShS3L3NC6pWmYg=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: s+S1CKqzzyAcBoknE7Q92wxDt64=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA1-Digest: IkDQ1dEuFUGFhfWgVVC41b0b2/c=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/settings.map
+SHA1-Digest: jhfirsQjqOb7Q+jL5iFQQCF7uKM=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA1-Digest: q7OXcP2ojiNHEELZFpyQ1iPm6i8=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA1-Digest: Wi8dafw47m/F2slfrgPY14UdRW8=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA1-Digest: McD1CJlI90B0yGmUcr4rN7e4IH8=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA1-Digest: 8ltgpoCTAV5vV+4zt6RKQHnXT4I=
+
+Name: assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA1-Digest: k2Ug1btcAKGYXXpMTw73Y6kDGGI=
+
+Name: assets/bin/Data/sharedassets2.resource
+SHA1-Digest: Tt92T2fQJWylQ9AIPF291oD2zjc=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA1-Digest: 88UHpqe4DwRjrDsVQTBxLaG0ePw=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+SHA1-Digest: GH3/UW+USOY+pQeBkLM0eSLEs+s=
+
+Name: assets/bin/Data/RuntimeInitializeOnLoads.json
+SHA1-Digest: 0uLZKz5Op1erRRv+CS9Q8MFC2qo=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA1-Digest: q7OXcP2ojiNHEELZFpyQ1iPm6i8=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: Chz4MIqxZOOz8IQQU6m9BTvvR1U=
+
+Name: res/xml/splits0.xml
+SHA1-Digest: GqXgE2OuFFcXYPgLNh4Dyn+OPVE=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA1-Digest: kbD6osivrMxkhzPVdnAkUX0P99k=
+
+Name: assets/bin/Data/Managed/etc/mono/config
+SHA1-Digest: xEg15Igdlal7WXvr/13roCM6WIc=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA1-Digest: 2NtxEfzloI2LfJpuHgrS+/NM/hI=
+
+Name: assets/bin/Data/ScriptingAssemblies.json
+SHA1-Digest: pAa5Pr9+D84NNhvjGDQ7RljP5tI=
+
+Name: assets/bin/Data/sharedassets4.resource
+SHA1-Digest: Riue2iZdR37NAqAcudukKEf04Zg=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+SHA1-Digest: GH3/UW+USOY+pQeBkLM0eSLEs+s=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA1-Digest: IkDQ1dEuFUGFhfWgVVC41b0b2/c=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA1-Digest: Wi8dafw47m/F2slfrgPY14UdRW8=
+
+Name: resources.arsc
+SHA1-Digest: 8FZHatIaWpspzlMxDK+7s0bvQDA=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/settings.map
+SHA1-Digest: jhfirsQjqOb7Q+jL5iFQQCF7uKM=
+
+Name: classes.dex
+SHA1-Digest: oZvQM8Ld7KFIUWjVuIgQ90Am1IU=
+
+Name: assets/bin/Data/sharedassets1.resource
+SHA1-Digest: 5Bo7bhZ9U1HQNirooncOCPKbKCg=
+
